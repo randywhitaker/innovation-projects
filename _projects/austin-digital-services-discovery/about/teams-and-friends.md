@@ -8,11 +8,17 @@ position: 4
 * Ainee Athar, Communications Strategist
 * Amenity Applewhite, Product Manager
 * Ashlee Harris, Content Strategist 
-* Brian Smith, Senior Developer
-* Céline Thibault, Researcher and UX Designer
+* Ben Weatherman, Software Developer
+* Brian Smith, Software Developer
+* Céline Thibault, User Researcher and UX Designer
 * Courtney Morgan, Content Strategist
 * Farah Muscadin, Project Manager
+* Julia Byron, User Researcher and UX Designer
 * Laura Trujillo, Content Strategist
+* Marni Wilhite, Program Manager
+* Mateo Clarke, Software Developer
+* Mireya Galarza, User Researcher
+* Simi Damani, Software Developer
 
 ## Advisory & support teams
 * Aaron Wagner, Senior Developer 
@@ -36,10 +42,8 @@ position: 4
 * Khalil Shalabi, Vice President 
 * Kim Olivares, Chief Performance Officer 
 * Lucia Athens, Chief Sustainability Officer 
-* Marni Wilhite, Product Manager
 * Matt Esquibel, IT Corporate Manager
 * Maya Coleman, Information System and Business Enterprise Manager 
-* Mireya Galarza,IT Business Systems Analyst Senior
 * Paul Cook, Senior Business Process Consultant 
 * Ross Clark, IT Corporate Manager 
 * Ruben Garcia, Research Analyst
