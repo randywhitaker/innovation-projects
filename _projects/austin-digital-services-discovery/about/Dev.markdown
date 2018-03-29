@@ -9,6 +9,7 @@ position: 3
 We’d previously been trying to iterate on both the author and resident interface at the same time. For now, we’re concentrating on making a great experience for residents. On the frontend, that means implementing our designers’ amazing designs (see the next section for more info on this). On the backend, we’re only concerned about creating an API that supports resident-facing needs.
 
 ![We’re focusing on the residents' needs and not the city of austin employee right now.](/_uploads/focus_on_resident_ne_swni0.jpg)
+
 We’re focusing on the right half of this image and not the left half.
 
 ### Implement Design v2
